@@ -1,6 +1,6 @@
 {
     "name": "ecoule-handlebars",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "An instance of Ecoule that fetches handlebar templates, partials, and helpers, from given sources and prepare them for usage.",
     "author": "Martin Gausby <martin@gausby.dk>",
     "repository": "git@github.com:gausby/ecoule-handlebars.git",
