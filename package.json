@@ -6,7 +6,7 @@
     "repository": "git@github.com:gausby/ecoule-handlebars.git",
     "main": "lib/ecoule-handlebars.js",
     "dependencies": {
-        "ecoule": "0.0.14",
+        "ecoule": "0.0.17",
         "ecoule-data-handler-key-value-copy": "0.0.2",
         "ecoule-output-object-reference": "0.0.1",
 
